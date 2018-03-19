@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+}
+nav {
+  height: 30px;
+  text-align: right;
+  background-color: #00FFFF;
+}
+
+img.logo {
+  width: 25px;
+  height: auto;
+}
+
+div.logo {
+  text-align: left;
+}
+
+.header {
+  background-image: url("../../images/park.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.dog-block {
+    display: inline-block;
+    width: 300px;
+    height: 600px;
+    margin: 10px;
+    border: 3px solid #00FFFF;
+}
+
+img.dogpic {
+    border-radius: 50%;
+}
+
+footer {
+  background-color: #00FFFF;
+}
